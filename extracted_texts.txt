@@ -1,0 +1,75 @@
+--- BusinessAnalyst_CoverLetter_NguyenToanThang.pdf ---
+NGUYEN TOAN THANG
+toanthang.forwork@gmail.com | linkedin.com/in/toanthang045/| 0707.548.574
+May 06th, 2025
+Ms. Huyen Nguyen
+BUSINESS ANALYST INTERN
+MOMO (M_SERVICE)
+Phu My Hung Building, No. 8 Hoang Van Thai, Tan Phu Ward, District 7, Ho Chi Minh City
+Dear Ms. Huyen Nguyen:
+I am writing to express my strong interest in the Business Analyst Intern position at MoMo.
+As a Software Engineering student at Van Lang University, I am passionate about leveraging
+technology to solve real-world problems, and I am particularly drawn to MoMo's mission of
+providing innovative financial services through a super app. I believe my technical skills and
+commitment to understanding user needs make me a strong candidate for this role.
+During my internship at Palexy, I gained invaluable experience conducting market, financial,
+and organizational assessments to evaluate partnership feasibility for AI-driven solutions tailored
+to the retail market. I supported the Head of Commercial in follow-up meetings and provided
+ongoing client support, ensuring alignment between business objectives and technical
+requirements.
+Throughout my academic journey, I have developed a robust set of technical skills directly
+applicable to the Business Analyst role. I have gained experience drafting comprehensive
+Business Requirements Document (BRD), Software Requirements Specification (SRS).
+My ability to create these documents accurately and efficiently will help MoMo maintain high
+standards of clarity and precision in its development projects.I am currently pursuing UX design to deepen my understanding of end-user behavior.
+This pursuit is complemented by my recent certifications in Business Analysis Foundations
+(Business Process Modeling, Requirement Elicitation). Together, these skills enable me to
+approach business analysis with a comprehensive perspective, ensuring that the solutions I help
+develop align with both business objectives and user needs.
+I am confident that my passion for business analysis, coupled with my strong communication
+and problem-solving abilities, would make me a valuable asset to your team. I am eager to
+learn and grow within your organization and contribute to achieving Lotte Innovate’s goals.
+Thank you for considering my application. I look forward to the opportunity to discuss how my
+skills and experiences align with MoMo’s vision.
+Warm regards,
+NGUYEN TOAN THANG
+--- NguyenToanThang_BusinessAnalyst_Intern.pdf ---
+Nguyen Toan Thang
+toanthang.forwork@gmail.com
+0707 548 574 District 7, HCMC
+Business analyst intern
+Seeking a Business Analyst internship to apply knowledge of SDLC and software requirement analysis to
+uncover insights, optimize workflows, and support strategic decision-making through data-driven analysis.
+work experience
+Account Executive Intern
+Palexy Jan 2025 – March 2025 Reference Check: huyen@palexy.com
+Supported 6 research projects covering market trends, financials, and organizational assessments to
+support strategic decisions.
+Translated business objectives into production-ready CCTV analytics system requirements, enhancing
+partner alignment and system performance.
+
+Led client-focused initiatives and collaborated with the Head of Commercial on follow-ups and post-meeting
+execution, resulting in partnerships with 3 additional companies.
+Scratch & Game Development Instructor
+MindX Technology School June 2023 – August 2024
+Led interactive Scratch, Game programming sessions for the juniors, increased overall student engagement
+by 40%. Improved student punctuality and motivation. Total teaching sessions: 70 sessions.
+English Instructor
+Movers and Flyers English Class July 2023 – March 2024
+Followed instructional techniques and delivered 26 tailored English lessons, helping student improves their
+literacy and communication skills. Total teaching sessions: 52 sessions.
+personal projects
+FutureLens Github Link UniConnect Github Link
+Role: Full-Stack Developer Team size: 04 Role: Project Manager Team size: 03
+Tech Stack: Flutter Tech Stack: React
+Built FutureLens, a Flutter app using Decision Tree Developed a React-based event platform for
+Regressor to predict student outcomes, featuring university use, enabling student registration and
+intuitive UI and clear documentation of tech, model faculty event management, with Scrum-based
+training, and screen purposes. delivery and a lightweight JSON backend.
+EDUCATION
+Bachelor Degree of Software Engineering Van Lang University GPA: 3.08/ 4 2021-2025
+Certificates
+Design User Experiences with Figma MOS - Associate 365 Apps (Word, Excel, PowerPoint)
+Currently pursuing (expected late May 2025) September 2024
+Business Process Modeling & Requirement Elicitation IBM Data Analyst Certification
+March 2025 August 2024 - Grade Achieved: 88.6%
