@@ -21,10 +21,6 @@ I am Nguyen Toan Thang, a Software Engineering student at Van Lang University. I
 - **Design:** Figma (for UX/UI samples)
 - **Other:** Modern, responsive, and accessible web design
 
-## 📸 Preview
-
-![Portfolio Screenshot](./public/portfolio_screenshot.png)
-
 ## 📬 Contact
 
 - **Email:** toanthang.forwork@gmail.com
